@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Article | Marco Peer</title>
+    <link>http://localhost:1313/publication_types/conference-article/</link>
+      <atom:link href="http://localhost:1313/publication_types/conference-article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Conference Article</title>
+      <link>http://localhost:1313/publication_types/conference-article/</link>
+    </image>
+    
+    <item>
+      <title>SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval</title>
+      <link>http://localhost:1313/publication/peer-saghog-2024/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peer-saghog-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Writer Retrieval for Historical Datasets</title>
+      <link>http://localhost:1313/publication/peer-towards-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peer-towards-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Vision Transformers with Data Augmentation Strategies Using Morphological Operations for Writer Retrieval</title>
+      <link>http://localhost:1313/publication/peer-self-supervised-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peer-self-supervised-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
