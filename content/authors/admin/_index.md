@@ -179,4 +179,4 @@ skills:
 
 ## About Me
 
-Since April 2025, I have been a postdoctoral researcher in the iCoSys group at HEIA-FR, specializing in text summarization of historical documents using LLMs. I earned my PhD from TU Wien in 2025, where my research focused on writer retrieval for historical texts.
+Since April 2025, I have been a postdoctoral researcher in the iCoSys group at HEIA-FR in Fribourg, Switzerland, specializing in text summarization of historical documents using LLMs. I earned my PhD from TU Wien in 2025, where my research focused on writer retrieval for historical texts.
