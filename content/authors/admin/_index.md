@@ -179,4 +179,4 @@ skills:
 
 ## About Me
 
-Since April 2025, I have been a postdoctoral researcher in the iCoSys group at HEIA-FR in Fribourg, Switzerland, currently engaged in a research project focused on the computational analysis of historical documents related to Swiss foreign policy, in cooperation with [DODIS](https://www.dodis.ch/en). I earned my PhD from TU Wien in 2025, where my research focused on writer retrieval for historical texts. You can find my thesis [here](https://cloud.cvl.tuwien.ac.at/s/NH5AYKHiDNf2ZBz). 
+Since April 2025, I have been a postdoctoral researcher in the iCoSys group at HEIA-FR in Fribourg, Switzerland, currently engaged in a research project focused on the computational analysis of historical documents related to Swiss foreign policy, in cooperation with [DODIS](https://www.dodis.ch/en). I earned my PhD from TU Wien in 2025, where my research focused on writer retrieval for historical texts. You can find my thesis [here](https://repositum.tuwien.at/handle/20.500.12708/214211). 

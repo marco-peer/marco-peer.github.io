@@ -345,7 +345,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S0313592624003734
 
 
 
-&lt;div id=&#34;chart-582637914&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-156349872&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -363,7 +363,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S0313592624003734
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-582637914&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-156349872&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
