@@ -24,8 +24,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HEIA-FR
-    url: https://www.heia-fr.ch/en/applied-research/institutes/icosys/
+  - name: AIBEX@UniFR
+    url: https://aibex-group.github.io/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -178,4 +178,4 @@ skills:
 ---
 
 ## About Me
-Since April 2025, I have been a postdoctoral researcher in the iCoSys group at HEIA-FR in Fribourg, Switzerland. I am currently involved in a research project focused on the computational analysis of historical documents related to Swiss foreign policy, in collaboration with [**DODIS**](https://www.dodis.ch/en). My main research interests lie in document analysis, particularly in the context of historical texts. I earned my PhD from TU Wien in 2025, where my research focused on writer identification in historical documents. You can find my thesis [here](https://repositum.tuwien.at/handle/20.500.12708/214211). When I’m not working with documents, I enjoy running and training for my next race.
+Since April 2025, I have been a postdoctoral researcher in the AIBEX group at UniFR in Fribourg, Switzerland. I am currently involved in a research project focused on the computational analysis of historical documents related to Swiss foreign policy, in collaboration with [**DODIS**](https://www.dodis.ch/en). My main research interests lie in document analysis, particularly in the context of historical texts. I earned my PhD from TU Wien in 2025, where my research focused on writer identification in historical documents. You can find my thesis [here](https://repositum.tuwien.at/handle/20.500.12708/214211). When I’m not working with documents, I enjoy running and training for my next race.
