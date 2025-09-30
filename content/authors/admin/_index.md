@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:marco.peer@hefr.ch'
+    url: 'mailto:marco.peer@unifr.ch'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/marco-peer
